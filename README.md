@@ -4,7 +4,7 @@
 
 ### Programmin Language:
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-### Python
+<text>Python</text>
 
 <!--
 **Esmail3576/Esmail3576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
