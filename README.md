@@ -1,4 +1,5 @@
 ### Hi there 👋
+###🔭 I’m currently student in ALX-SE program
 
 <!--
 **Esmail3576/Esmail3576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
