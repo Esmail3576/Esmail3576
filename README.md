@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there I'm Esmail Ibrahim a Software Engineer👋
 ### 🔭 I’m currently student in ALX-SE program
 
 <!--
